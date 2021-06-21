@@ -1,3 +1,5 @@
+**Archived:** Don't send your students' behavior data to google
+
 # nbgoogleanalytics
 Simple [Jupyter Notebook](http://jupyter.org/) extension to inject
 [Google Analytics](https://www.google.com/analytics/) tracking code into

@@ -36,8 +36,8 @@ jupyter nbextensions install --py --sys-prefix nbgoogleanalytics
 You can then enable it with:
 
 ```bash
-jupyter nbextensions enable --py --sys-prefix nbgoogleanalytics
-jupyter serverextensions enable --sys-prefix nbgoogleanalytics
+jupyter nbextension enable --py --sys-prefix nbgoogleanalytics
+jupyter serverextension enable --sys-prefix nbgoogleanalytics
 ```
 ## Configuration
 
